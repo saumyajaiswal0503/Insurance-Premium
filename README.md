@@ -1,5 +1,5 @@
 # Insurance-Premium
-Prediction of Premium Amount with respect various health & demographic parameter 
+Prediction of Premium Amount with respect various health & demographic parameter  using Random Forest
 
 # Data Descriptions 
 
